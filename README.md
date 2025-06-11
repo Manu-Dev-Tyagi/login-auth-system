@@ -26,6 +26,9 @@ A robust, production-ready user authentication system built with Java Servlets (
 | Build Tool   | Maven                         |
 -----------------------------------------------
 
+## System-Design
+<img width="566" alt="Screenshot 2025-06-12 at 12 23 11 AM" src="https://github.com/user-attachments/assets/1437eb9d-d457-445e-8ea1-31ea51d95d00" />
+
 
 ## 🖥️ Running the Project
 
