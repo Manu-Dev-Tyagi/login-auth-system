@@ -1,0 +1,6 @@
+com/example/auth/LoginServlet.class
+com/example/auth/LogoutServlet.class
+com/example/auth/RegisterServlet.class
+com/example/auth/UserDAO.class
+com/example/auth/TestConnection.class
+com/example/auth/DBUtil.class
